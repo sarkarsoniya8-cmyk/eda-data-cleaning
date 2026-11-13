@@ -1,0 +1,14 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Python cache & virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# OS generated files
+.DS_Store
+Thumbs.db
